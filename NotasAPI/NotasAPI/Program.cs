@@ -6,11 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
     if (string.IsNullOrEmpty(connectionString))
     {
         connectionString = Environment.GetEnvironmentVariable("DATABASE_URL");
     }
+
 
     options.UseNpgsql(connectionString);
 });

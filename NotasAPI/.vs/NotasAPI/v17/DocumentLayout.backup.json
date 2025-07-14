@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA451312-2FF1-47C8-874E-CF738A46C409}|NotasAPI\\NotasAPI.csproj|c:\\users\\nicoll\\desktop\\notas\\notasapi\\notasapi\\notasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AA451312-2FF1-47C8-874E-CF738A46C409}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\notasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -47,19 +51,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotasAPI",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeDocumentMoniker": "NotasAPI\\NotasAPI.csproj",
+              "ToolTip": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeToolTip": "NotasAPI\\NotasAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T02:05:45.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-14T01:08:48.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "NotasAPI\\appsettings.Development.json",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\appsettings.json",
               "RelativeDocumentMoniker": "NotasAPI\\appsettings.json",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\Data\\DbContext.cs",
               "RelativeDocumentMoniker": "NotasAPI\\Data\\DbContext.cs",
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NotasController.cs",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\Controllers\\NotasController.cs",
               "RelativeDocumentMoniker": "NotasAPI\\Controllers\\NotasController.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Nota.cs",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\Models\\Nota.cs",
               "RelativeDocumentMoniker": "NotasAPI\\Models\\Nota.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NotasAPI\\Properties\\launchSettings.json",
@@ -137,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nicoll\\Desktop\\Notas\\NotasAPI\\NotasAPI\\Program.cs",
               "RelativeDocumentMoniker": "NotasAPI\\Program.cs",

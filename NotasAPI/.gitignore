@@ -1,8 +1,14 @@
 bin/
 obj/
+.vs/
+
 
 *.user
 *.vspscc
 *.vssscc
 
-NotasAPI/appsettings.*.json
+!NotasAPI/Dockerfile
+
+NotasAPI/appsettings.json
+NotasAPI/appsettings.Development.json
+
