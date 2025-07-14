@@ -8,9 +8,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
     if (string.IsNullOrEmpty(connectionString))
     {
-        connectionString = Environment.GetEnvironmentVariable("DATABASE_URL");
+        connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
     }
-
 
     options.UseNpgsql(connectionString);
 });
