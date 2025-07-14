@@ -42,4 +42,6 @@ app.UseCors("AllowFrontend");
 app.UseAuthorization();
 app.MapControllers();
 
+app.MapGet("/", () => Results.Redirect("/api/notas"));
+
 app.Run();
